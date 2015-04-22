@@ -1,0 +1,2 @@
+# googleTrends
+test R package
