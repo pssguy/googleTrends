@@ -1,2 +1,2 @@
 # googleTrends
-test R package
+test R package for subsequent mapping uses
